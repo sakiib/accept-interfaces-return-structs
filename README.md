@@ -1,0 +1,1 @@
+# Accept interfaces, return structs in Go
